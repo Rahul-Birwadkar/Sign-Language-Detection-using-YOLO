@@ -1,4 +1,4 @@
-# 🕊 Sign Language Detection Using YOLOv8  
+# ✋ Sign Language Detection Using YOLOv8  
 **Output**: Real-time Gesture Detection + Voice Feedback
 
 ---
