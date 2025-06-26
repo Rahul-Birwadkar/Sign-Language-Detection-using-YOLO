@@ -61,6 +61,3 @@ This project fine-tunes YOLOv8 on a **converted object detection version of the 
 - 🔊 Syncing voice feedback without blocking frame updates
 - 📊 Reducing training time while maintaining model accuracy
 
----
-
-_Contact or raise an issue to contribute or extend this project further!_
